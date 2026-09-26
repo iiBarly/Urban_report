@@ -1,0 +1,21 @@
+# Backend
+backend-urbain/target/
+backend-urbain/uploads/
+
+# Environment / secrets
+.env
+*.env
+application-local.properties
+
+# Frontend
+frontend-urbain/node_modules/
+frontend-urbain/build/
+frontend-urbain/dist/
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
